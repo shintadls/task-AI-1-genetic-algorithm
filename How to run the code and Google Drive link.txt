@@ -1,0 +1,10 @@
+To run the code, just run the code.
+
+> To change the maximum of parent/chromosome inside a population :
+max_pop - line 170
+
+> TO change the maximum of generation :
+max_gen - line 171
+
+The video, report, and documentation link :
+https://drive.google.com/drive/folders/1zkpWDonLYEx9zGQZAYzbrHoteK233rTu?usp=sharing
